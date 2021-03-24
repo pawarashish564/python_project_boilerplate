@@ -9,10 +9,9 @@ Python Project Setup Boilerplate
 .. image:: https://img.shields.io/travis/pawarashish564/python_project_setup_boilerplate.svg
         :target: https://travis-ci.com/pawarashish564/python_project_setup_boilerplate
 
-.. image:: https://readthedocs.org/projects/python-project-setup-boilerplate/badge/?version=latest
-        :target: https://python-project-setup-boilerplate.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
+.. image:: https://readthedocs.org/projects/python-project-boilerplate/badge/?version=latest
+:target: https://python-project-boilerplate.readthedocs.io/en/latest/?badge=latest
+:alt: Documentation Status
 
 
 
@@ -20,8 +19,7 @@ basic usage of cookiecutter and setuptools
 
 
 * Free software: MIT license
-* Documentation: https://python-project-setup-boilerplate.readthedocs.io.
-
+* Documentation: https://readthedocs.org/projects/python-project-boilerplate/
 
 Steps
 --------
